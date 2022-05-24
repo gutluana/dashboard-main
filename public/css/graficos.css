@@ -1,0 +1,31 @@
+
+.div_grafico{
+    width: 400px;
+    flex-wrap: wrap;
+    display: flex;
+     flex-direction: column;
+     justify-content: space-around;
+     align-items: center;
+
+
+   
+}
+.grafico{
+    flex-direction: row; 
+  
+    display: flex;
+    
+}
+.table-responsive-md{
+    flex-direction: row; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 30px 0;
+
+    
+}
+
+.div_tabelas{
+    gap: 2rem;
+}
